@@ -1,5 +1,3 @@
-#Coursework1 blahiguhrgorur ga
-
 #Welcome message
 message_1 = '''
 **********************************************************************************
